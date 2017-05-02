@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Make a short named modules in production build to avoid sparse arrays incompatibility with older browsers.",
   "peerDependencies": {
-    "webpack": "^1.13.1"
+    "webpack": "^2.4.1"
   },
   "main": "index.js",
   "scripts": {
